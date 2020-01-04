@@ -1,4 +1,4 @@
-# Weather Update
+# Weather Application
 
 ## What the application does
 
